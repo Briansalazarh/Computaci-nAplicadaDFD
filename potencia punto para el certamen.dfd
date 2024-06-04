@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+8
+Potencia
+1
+2
+4
+1
+22
+'INGRESE UN EXPONENTE'
+5
+1
+1
+X
+9
+1
+5
+X < 0
+7
+0
+1
+5
+X < 0
+13
+4
+1
+34
+'Ingrese un exponente mayor que 0'
+13
+5
+1
+1
+X
+11
+7
+0
+1
+5
+X = 0
+13
+4
+1
+19
+'el resultado es 1'
+13
+8
+1
+1
+V
+1
+1
+1
+1
+1
+X
+1
+1
+1
+6
+1
+8
+Potencia
+10
+Potencia^V
+4
+1
+32
+'2 elevado a'  ,V, '=', Potencia
+10
+1

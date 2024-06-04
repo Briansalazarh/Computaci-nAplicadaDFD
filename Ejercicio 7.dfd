@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+1
+C
+6
+2
+3
+IVA
+6
+C*0.19
+1
+X
+5
+C+IVA
+4
+1
+27
+'El valor del precio es:',C
+4
+1
+27
+'El valor del iva es: ',IVA
+4
+1
+23
+'El valor total es: ',X
+1

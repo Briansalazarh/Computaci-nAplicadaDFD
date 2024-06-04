@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+6
+x1, x2
+7
+0
+1
+17
+x1 = 0 AND x2 = 0
+7
+0
+1
+17
+x1 > 0 AND x2 > 0
+7
+0
+1
+16
+x1 > 0 OR x2 > 0
+4
+1
+21
+'ninguno es positivo'
+13
+4
+1
+17
+'uno es positivo'
+13
+13
+4
+1
+21
+'ambos son positivos'
+13
+13
+4
+1
+21
+'ningúno es positivo'
+13
+1

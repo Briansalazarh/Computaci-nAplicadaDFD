@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+1
+C
+1
+1
+4
+1
+30
+'Ingrese el numero factoriall'
+5
+1
+1
+X
+9
+1
+5
+X < 0
+7
+0
+1
+5
+X < 0
+13
+4
+1
+37
+'Ingrese factorial mayor o igual a 0'
+13
+5
+1
+1
+X
+11
+8
+1
+1
+V
+1
+1
+1
+1
+1
+X
+1
+1
+1
+6
+1
+1
+C
+3
+C*V
+10
+4
+1
+31
+'el factorial de', X, 'es =', C
+1
