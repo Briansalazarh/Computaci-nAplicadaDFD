@@ -1,2 +1,3 @@
 # ComputacionAplicadaDFD
-Algoritmos de ingeniería computacional Ramo universitario computación aplicada
+Algoritmos y diagramas de flujo para ingeniería 
+Ramo universitario computación aplicada
